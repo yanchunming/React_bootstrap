@@ -1,0 +1,162 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Microsoft Yahei, Hiragino Sans GB, WenQuanYi Micro Hei, sans-serif;
+}
+.header {
+  margin-bottom: 0;
+}
+.header a {
+  color: #5b4182;
+  cursor: pointer;
+}
+.header ul a:hover,
+.header ul li.choose a {
+  background-color: #f3f3f3;
+}
+/*定义首页banner样式*/
+.banner {
+  background-color: #5b4182;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  text-align: center;
+  color: #fff;
+}
+.banner .banner-b-logo {
+  width: 150px;
+  height: 150px;
+  margin: 0px auto;
+  line-height: 150px;
+  font-size: 110px;
+  border: 1px solid #fff;
+  text-align: center;
+  color: #fff;
+  border-radius: 20px;
+  margin-bottom: 30px;
+}
+.banner h2 {
+  width: 800px;
+  line-height: 50px;
+  margin: 0px auto;
+}
+.banner .btn-outline {
+  border: 1px solid #fff;
+  margin: 30px auto 15px;
+  font-size: 20px;
+}
+.banner .btn-outline:hover {
+  background-color: #fff;
+  color: #5b4182;
+}
+.banner .app-version {
+  color: #433060;
+}
+.app-banner {
+  text-align: left;
+  padding: 60px 0;
+}
+.app-banner h1 {
+  font-size: 60px;
+}
+.app-banner p {
+  font-size: 26px;
+  color: #a993c9;
+}
+.first-list {
+  padding: 100px 0;
+  text-align: center;
+  border-bottom: 1px solid #ccc;
+}
+.first-list h2 {
+  font-size: 40px;
+}
+.first-list .intro {
+  color: #666;
+  font-size: 20px;
+  width: 860px;
+  margin: 0px auto;
+  margin-bottom: 80px;
+}
+.first-list img {
+  width: 100%;
+}
+.first-list .row p {
+  font-size: 16px;
+}
+.first-list .description {
+  font-size: 26px;
+  margin: 80px auto 20px;
+}
+.first-list .btn {
+  border: 1px solid #5b4182;
+  color: #5b4182;
+}
+.first-list .btn:hover {
+  background-color: #5b4182;
+  color: #fff;
+}
+.second-list {
+  padding: 100px 0;
+  text-align: center;
+  border-bottom: 1px solid #ccc;
+  border-bottom: none;
+}
+.second-list h2 {
+  font-size: 40px;
+}
+.second-list .intro {
+  color: #666;
+  font-size: 20px;
+  width: 860px;
+  margin: 0px auto;
+  margin-bottom: 80px;
+}
+.second-list img {
+  width: 100%;
+}
+.second-list .row p {
+  font-size: 16px;
+}
+.second-list .description {
+  font-size: 26px;
+  margin: 80px auto 20px;
+}
+.second-list .btn {
+  border: 1px solid #5b4182;
+  color: #5b4182;
+}
+.second-list .btn:hover {
+  background-color: #5b4182;
+  color: #fff;
+}
+.article {
+  padding-top: 40px;
+  padding-bottom: 100px;
+}
+.aside {
+  padding-top: 60px;
+  padding-left: 50px;
+}
+.aside a {
+  border-left: 1px solid transparent;
+  padding-left: 20px !important;
+  color: #666;
+}
+.aside a:hover {
+  background-color: #fff !important;
+}
+.aside .choose a,
+.aside a:hover {
+  border-left: 1px solid #5b4182;
+  color: #5b4182;
+}
+.footer {
+  border-top: 1px solid #ccc;
+  padding: 40px 0px 50px;
+  text-align: center;
+  color: #666;
+}
+.footer p {
+  margin: 0px auto;
+}
+.footer .list-inline {
+  margin: 30px auto 0px;
+}
